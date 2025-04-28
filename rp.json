@@ -1,0 +1,228 @@
+[
+    {
+      "id": "0cb9da1b-1aa7-4235-a40d-85eabce32f63",
+      "name": "Aspirateur électrique Nouvel Askir",
+      "reference": "ref-443",
+      "price": 80,
+      "status_product": 1,
+      "stock": 100,
+      "brand_id": "b04c714d-2257-46df-9bd2-9c9e44fe5e7c",
+      "desc_id": "89d5fd58-b84a-4f0f-a6e5-82ef737e7613",
+      "childCat_id": "aa996922-a0d1-4cb2-9a1c-099d8295c9fc",
+      "VenderId": "0cf78b0c-4c52-4143-bce6-86677af82b52",
+      "status_promotion": 0,
+      "pubilsh_status": 0,
+      "createdAt": "2022-03-11T07:58:23.430Z",
+      "updatedAt": "2022-04-01T10:32:59.865Z",
+      "Product_photos": [
+        {
+          "id": "5c2119dc-834c-4ff3-8429-e66c00436818",
+          "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1647605907/rqdrrbjiztnhm4ugsytz.jpg",
+          "public_id": null,
+          "product_id": "0cb9da1b-1aa7-4235-a40d-85eabce32f63",
+          "createdAt": "2022-03-18T12:18:28.187Z",
+          "updatedAt": "2022-03-18T12:18:28.187Z"
+        },
+        {
+          "id": "316de5ba-8418-4476-a0fe-6ded39b232ce",
+          "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1647605842/zxz6czrsii4tb2rq1njk.jpg",
+          "public_id": null,
+          "product_id": "0cb9da1b-1aa7-4235-a40d-85eabce32f63",
+          "createdAt": "2022-03-18T12:17:23.267Z",
+          "updatedAt": "2022-03-18T12:17:23.267Z"
+        },
+        {
+          "id": "5e1df157-0e8c-4e9e-9a55-c56814540e5d",
+          "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1647605806/cmlaiiuogz3tg3gld7du.jpg",
+          "public_id": null,
+          "product_id": "0cb9da1b-1aa7-4235-a40d-85eabce32f63",
+          "createdAt": "2022-03-18T12:16:46.608Z",
+          "updatedAt": "2022-03-18T12:16:46.608Z"
+        },
+        {
+          "id": "0e304c0d-517c-43f1-b5fb-355d3be0d175",
+          "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1646985505/hdkcmz6qdvwnv0odtl9v.jpg",
+          "public_id": null,
+          "product_id": "0cb9da1b-1aa7-4235-a40d-85eabce32f63",
+          "createdAt": "2022-03-11T07:58:25.707Z",
+          "updatedAt": "2022-03-11T07:58:25.707Z"
+        }
+      ],
+      "price_whoesales": [],
+      "Product_offrets": [],
+      "Description": {
+        "name": "Aspirateur électrique Nouvel Askir\r\n"
+      },
+      "Brand": {
+        "id": "b04c714d-2257-46df-9bd2-9c9e44fe5e7c",
+        "name": "B1",
+        "code": "B1",
+        "slug": "B1",
+        "status_brand": 0,
+        "title": "B1",
+        "keyword": "B1",
+        "desc": null,
+        "createdAt": "2022-01-14T09:36:15.792Z",
+        "updatedAt": "2022-01-14T09:36:15.792Z"
+      },
+      "ColorDetails": [],
+      "sizes": [],
+      "ChildCategory": {
+        "id": "aa996922-a0d1-4cb2-9a1c-099d8295c9fc",
+        "child_name": "MATÉRIEL MÉDICAL",
+        "title": "MATÉRIEL MÉDICAL",
+        "keyword": "MATÉRIEL MÉDICAL",
+        "description": "MATÉRIEL MÉDICAL",
+        "SubCategoryId": "803eb1e0-8892-4def-958f-e987b5f982f7",
+        "createdAt": "2022-03-11T07:53:13.186Z",
+        "updatedAt": "2022-03-11T07:53:13.186Z",
+        "SubCategory": {
+          "sub_name": "MATÉRIEL MÉDICAL",
+          "id": "803eb1e0-8892-4def-958f-e987b5f982f7",
+          "Category": {
+            "name": "Parapharmacerie",
+            "id": "435a5df8-cd7f-4c62-8d32-94e098578c15"
+          }
+        }
+      }
+    },
+    {
+      "id": "c634fcd8-1fa3-459b-8d88-0879803d6276",
+      "name": "Soulève Malade",
+      "reference": "ref-3242",
+      "price": 100,
+      "status_product": 1,
+      "stock": 100,
+      "brand_id": "b04c714d-2257-46df-9bd2-9c9e44fe5e7c",
+      "desc_id": "38c9a746-cc34-408a-9643-1c5acb6eae39",
+      "childCat_id": "aa996922-a0d1-4cb2-9a1c-099d8295c9fc",
+      "VenderId": "0cf78b0c-4c52-4143-bce6-86677af82b52",
+      "status_promotion": 0,
+      "pubilsh_status": 0,
+      "createdAt": "2022-03-11T07:56:27.487Z",
+      "updatedAt": "2022-03-15T13:50:38.587Z",
+      "Product_photos": [
+        {
+          "id": "e6709347-9092-4602-bcdd-5b43df31c463",
+          "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1646985388/mhjoc7c6t2bgpnasny6f.jpg",
+          "public_id": null,
+          "product_id": "c634fcd8-1fa3-459b-8d88-0879803d6276",
+          "createdAt": "2022-03-11T07:56:28.392Z",
+          "updatedAt": "2022-03-11T07:56:28.392Z"
+        }
+      ],
+      "price_whoesales": [],
+      "Product_offrets": [],
+      "Description": {
+        "name": "Soulève Malade-NAUSI-FLY COMPACT"
+      },
+      "Brand": {
+        "id": "b04c714d-2257-46df-9bd2-9c9e44fe5e7c",
+        "name": "B1",
+        "code": "B1",
+        "slug": "B1",
+        "status_brand": 0,
+        "title": "B1",
+        "keyword": "B1",
+        "desc": null,
+        "createdAt": "2022-01-14T09:36:15.792Z",
+        "updatedAt": "2022-01-14T09:36:15.792Z"
+      },
+      "ColorDetails": [],
+      "sizes": [],
+      "ChildCategory": {
+        "id": "aa996922-a0d1-4cb2-9a1c-099d8295c9fc",
+        "child_name": "MATÉRIEL MÉDICAL",
+        "title": "MATÉRIEL MÉDICAL",
+        "keyword": "MATÉRIEL MÉDICAL",
+        "description": "MATÉRIEL MÉDICAL",
+        "SubCategoryId": "803eb1e0-8892-4def-958f-e987b5f982f7",
+        "createdAt": "2022-03-11T07:53:13.186Z",
+        "updatedAt": "2022-03-11T07:53:13.186Z",
+        "SubCategory": {
+          "sub_name": "MATÉRIEL MÉDICAL",
+          "id": "803eb1e0-8892-4def-958f-e987b5f982f7",
+          "Category": {
+            "name": "Parapharmacerie",
+            "id": "435a5df8-cd7f-4c62-8d32-94e098578c15"
+          }
+        }
+      },
+      "Product": {
+        "id": "0cb9da1b-1aa7-4235-a40d-85eabce32f63",
+        "name": "Aspirateur électrique Nouvel Askir",
+        "reference": "ref-443",
+        "price": 80,
+        "status_product": 1,
+        "stock": 100,
+        "brand_id": "b04c714d-2257-46df-9bd2-9c9e44fe5e7c",
+        "desc_id": "89d5fd58-b84a-4f0f-a6e5-82ef737e7613",
+        "childCat_id": "aa996922-a0d1-4cb2-9a1c-099d8295c9fc",
+        "VenderId": "0cf78b0c-4c52-4143-bce6-86677af82b52",
+        "status_promotion": 0,
+        "pubilsh_status": 0,
+        "createdAt": "2022-03-11T07:58:23.430Z",
+        "updatedAt": "2022-04-01T10:32:59.865Z",
+        "Product_photos": [
+          {
+            "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1647605907/rqdrrbjiztnhm4ugsytz.jpg"
+          },
+          {
+            "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1647605842/zxz6czrsii4tb2rq1njk.jpg"
+          },
+          {
+            "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1647605806/cmlaiiuogz3tg3gld7du.jpg"
+          },
+          {
+            "imgUrl": "http://res.cloudinary.com/dbmtje1yj/image/upload/v1646985505/hdkcmz6qdvwnv0odtl9v.jpg"
+          }
+        ],
+        "Description": {
+          "name": "Aspirateur électrique Nouvel Askir\r\n"
+        },
+        "Brand": {
+          "id": "b04c714d-2257-46df-9bd2-9c9e44fe5e7c",
+          "name": "B1",
+          "code": "B1",
+          "slug": "B1",
+          "status_brand": 0,
+          "title": "B1",
+          "keyword": "B1",
+          "desc": null,
+          "createdAt": "2022-01-14T09:36:15.792Z",
+          "updatedAt": "2022-01-14T09:36:15.792Z"
+        },
+        "Vender": {
+          "id": "0cf78b0c-4c52-4143-bce6-86677af82b52",
+          "User": {
+            "first_name": "vender1",
+            "last_name": "vender1",
+            "phone": "20147369"
+          }
+        },
+        "ColorDetails": [],
+        "sizes": [],
+        "ChildCategory": {
+          "id": "aa996922-a0d1-4cb2-9a1c-099d8295c9fc",
+          "child_name": "MATÉRIEL MÉDICAL",
+          "title": "MATÉRIEL MÉDICAL",
+          "keyword": "MATÉRIEL MÉDICAL",
+          "description": "MATÉRIEL MÉDICAL",
+          "SubCategoryId": "803eb1e0-8892-4def-958f-e987b5f982f7",
+          "createdAt": "2022-03-11T07:53:13.186Z",
+          "updatedAt": "2022-03-11T07:53:13.186Z",
+          "SubCategory": {
+            "sub_name": "MATÉRIEL MÉDICAL",
+            "id": "803eb1e0-8892-4def-958f-e987b5f982f7",
+            "Category": {
+              "name": "Parapharmacerie",
+              "id": "435a5df8-cd7f-4c62-8d32-94e098578c15"
+            }
+          }
+        }
+      }
+    }
+  ]
+
+
+  
